@@ -1,4 +1,3 @@
-
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarCustom from './component/user/Navbar/Navbarr';
@@ -12,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
